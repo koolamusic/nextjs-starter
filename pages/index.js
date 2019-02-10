@@ -1,19 +1,14 @@
 // Import the Next Link API
 import React from 'react'
 import Link from "next/link"
-// import FormEmber
-//
+
 
 // Import Header Component
 import Layout from "../components/Layout.js"
-import FormEmber from '../lib/formEmber.js';
 
 
 const Index = () => (
 	<Layout>
-
-	<FormEmber src="https://form.myjotform.com/alexare/write-a-letter" />
-
 
 
 	 <h2>Hello Next.js</h2>
